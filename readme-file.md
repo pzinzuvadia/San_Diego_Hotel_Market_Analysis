@@ -30,36 +30,17 @@ Watch our [project presentation video](https://www.youtube.com/watch?v=AvNI9Unyi
 - Geospatial analysis: QGIS
 - Web platform: Google Sites
 
-## Getting Started
-To explore this project:
-1. Clone this repository
-2. Install required dependencies
-3. Review the documentation in the `/docs` folder
-4. Explore the analysis notebooks in the `/notebooks` folder
-5. Check the raw data in the `/data` folder
-
-## Key Findings
-- [Summary of your key findings here]
-- [Market trends]
-- [Competitive insights]
-- [Customer behavior patterns]
-
-## Future Work
-- [Planned enhancements or extensions to your analysis]
-- [Additional data sources to incorporate]
-- [New analytical approaches to consider]
-
 ## Contributors
-- [Your name and contributors' names]
+- Priyansh Sanjaybhai Zinzuvadia
+- Xiangyi Zhu
+- Aditya Desale
+- Jiachen Wang
 - San Diego State University
-
-## License
-[Include appropriate license information]
 
 ## Acknowledgments
 - San Diego State University
-- [Other organizations or individuals who supported the project]
-- Data providers and industry partners
+- SDSU's Big Data Analytics Departmemt
+- Booking.com (Data Source)
 
 ## Contact
-For more information about this analysis, please visit our [project website](https://sites.google.com/sdsu.edu/hotel-marketing-analysis-in-sd/home) or contact [your contact information].
+For more information about this analysis, please visit our [project website](https://sites.google.com/sdsu.edu/hotel-marketing-analysis-in-sd/home).
